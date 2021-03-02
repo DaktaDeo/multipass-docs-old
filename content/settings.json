@@ -1,0 +1,10 @@
+{
+  "title": "Multipass Docs",
+  "url": "docs.multipass.rocks",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "daktadeo/multipass-docs",
+  "twitter": "@multipassrocks"
+}
