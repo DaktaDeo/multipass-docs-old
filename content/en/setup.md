@@ -1,11 +1,12 @@
 ---
-title: Setup
+title: Installatie
 description: ''
 position: 2
-category: Guide
+category: Start
 ---
 
-Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
+Multipass moet je niet installeren op je laptop. Je surft naar de App via [Multipass starten](https://beta.multipass.rocks).
+<p>.</p>
 
 ## Installation
 

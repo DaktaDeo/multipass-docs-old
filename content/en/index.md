@@ -1,27 +1,28 @@
 ---
-title: Introduction
+title: Overzicht van Multipass
 description: ''
 position: 1
-category: ''
+category: 'Start'
 features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Contacten in hun volle potentieel benutten
+  - Je digitale administratie organiseren
+  - Je handelsdocumenten genereren... bijna
+  - Je voorraad onder controle houden ... bijna
+
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
-
-[Module]() for [NuxtJS](https://nuxtjs.org).
 
 <alert type="success">
 
-Your documentation has been created successfully!
+Voel je de nood aan lenteschoonmaak in de rijkdom van de contacten, opgeslagen in de kelder of zolder van je pc?
+Zoek je naar de ideale gids voor een frisse start? 
+De Multi-pass helpt je oude contacten weer in hun volle potentieel te laten stralen als nieuw’... !
 
 </alert>
 
-## Features
+## Kenmerken
 
 <list :items="features"></list>
+<p>.</p>
+<p class="flex items-center">Enjoy Multipass:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
 
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
