@@ -6,17 +6,15 @@ category: 'Start'
 features:
   - Contacten in hun volle potentieel benutten
   - Je digitale administratie organiseren
-  - Je handelsdocumenten genereren... bijna
-  - Je voorraad onder controle houden ... bijna
+  - Je werkt mee aan de ontwikkeling van de features... cocreatie
+  - Duurzame ontwikkeling ala "De korte keten" ... Belgische product ... Nederlandse support
 
 ---
 
 
 <alert type="success">
 
-Voel je de nood aan lenteschoonmaak in de rijkdom van de contacten, opgeslagen in de kelder of zolder van je pc?
-Zoek je naar de ideale gids voor een frisse start? 
-De Multi-pass helpt je oude contacten weer in hun volle potentieel te laten stralen als nieuw’... !
+De Multi-pass helpt je (oude contacten) weer in hun volle potentieel te laten stralen als nieuw... Je doet in Multipass je digitale kantooradministratie.
 
 </alert>
 

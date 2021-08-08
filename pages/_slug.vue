@@ -1,5 +1,5 @@
 <template>
-    <nuxt-content : document="doc" />
+    <nuxt-content :document="doc" />
 </template>
 <script>
 export default {

@@ -5,39 +5,37 @@ position: 2
 category: Start
 ---
 
-Multipass moet je niet installeren op je laptop. Je surft naar de App via [Multipass starten](https://beta.multipass.rocks).
-<p>.</p>
+Multipass hoef je niet te installeren op je laptop. Het is een webapplicatie. Dat betekent: je surft naar de app via [Multipass starten](https://beta.multipass.rocks).
+De Multipass app kan je ook op een smartphone of tablet bedienen.
 
-## Installation
+Omdat Multipass een Cloud applicatie is, heb je een internet verbinding nodig voor toegang tot de informatie.
 
-Add `@nuxtjs/xxx` dependency to your project:
 
-<code-group>
-  <code-block label="Yarn" active>
+## Registreren
 
-  ```bash
-  yarn add @nuxtjs/xxx
-  ```
+Het startscherm heeft enkel een login mogelijkheid. Registreren kan niet. Met andere woorden, je moet reeds een account hebben bij Multipass.
 
-  </code-block>
-  <code-block label="NPM">
+  <code-block label="Registratie" active>
 
   ```bash
-  npm install @nuxtjs/xxx
+  Opgelet, je kan pas aanmelden nadat je uitgenodigd bent om 
+  te registreren. Stuur een mail naar registratie@daktadeo.be.
   ```
+   </code-block>
 
-  </code-block>
-</code-group>
+## Aanmelden
 
-Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
+Klik rechtsboven op `Login`.
 
-```js[nuxt.config.js]
-{
-  modules: [
-    '@nuxtjs/xxx'
-  ],
-  xxx: {
-    // Options
-  }
-}
+```login
+  Master Email: 
+    Email adres waarmee je geregistreerd bent
+  Password: 
+    Je eigen gekozen wachtwoord... 
+    Er zijn geen voorwaarden gesteld aan het wachtwoord.
 ```
+  Vink "Remember me" aan als je niet telkens wil inloggen na het sluiten van de app.
+  Wanneer je je wachtwoord vergeten bent, dan vraag je een nieuw wachtwoord aan.
+  Alternatief: je kan ook aanmelden met je Google of Github Account.
+
+  Je hebt nu toegang tot de App.
